@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px; 
+  font-weight: normal;
+  background: #eee; 
+  color: #0f141e;
+  margin: 20px;
+}
+
+.card {
+  padding: 10px;
+  max-width: 750px;
+  margin: auto;
+}
+.top {
+  background-color: aquamarine;
+}
+.day {
+  background-color: lightpink;
+}
+.youtube {
+  background-color: khaki;
+}
+.describe {
+  background-color: cornflowerblue;
+  color: white;
+}
+.deem {
+  background-color:#BB2649 ;
+  color: white;
+}
+.send {
+  background-color: lightgreen;
+}
+.footer {
+  font-family: Verdana;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  transition: all .2s;
+}
+
+a:hover {
+  font-size: 1.1rem;
+}
