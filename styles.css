@@ -59,9 +59,10 @@ body {
   display: flex;
   margin-bottom: 10px;
 }
+
 button {
   margin-left: 5px;
-  background:#eee;
+  background:lightskyblue;
 }
 
 #describe {
@@ -79,6 +80,7 @@ button {
 #send {
   background-color: lightgreen;
 }
+
 textarea {
   margin-top: 5px;
 }
